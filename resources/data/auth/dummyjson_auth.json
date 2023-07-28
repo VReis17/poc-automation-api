@@ -1,0 +1,10 @@
+{
+  "url": "https://dummyjson.com/auth",
+  "uriAuth": "/login",
+  "sessionAuth": "AuthDummy",
+  "contentTypeAuth": "application/json",
+  "session": "DummyJson",
+  "contentType": "application/json",
+  "username": "kminchelle",
+  "password": "0lelplR"
+}
