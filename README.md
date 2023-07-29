@@ -1,6 +1,6 @@
 <h1>Projeto de Automação de Teste com Robot Framework e Java</h1>
 
-<p align="center">
+<p align="justify">
 <img src="https://img.shields.io/static/v1?label=java&message=11&color=turquoise&style=for-the-badge&logo=oracle"/>
 <img src="https://img.shields.io/static/v1?label=maven&message=3.9&color=crimson&style=for-the-badge&logo=apachemaven"/>
 <img src="https://img.shields.io/static/v1?label=robot&message=framework&color=yellow&style=for-the-badge&logo=robotframework"/>
